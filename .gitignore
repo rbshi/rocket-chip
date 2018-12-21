@@ -4,3 +4,9 @@ project/target
 *~
 .addons-dont-touch
 /lib/
+
+# hardware simulation files
+*.vcd*
+DVEfiles
+
+.idea
